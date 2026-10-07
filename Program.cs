@@ -9,5 +9,6 @@
 
         int result = Add(2, 7);
         Console.WriteLine($"{result}");
+        Console.WriteLine("Hola");
     }
 }
